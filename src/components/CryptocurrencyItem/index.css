@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.log {
+  height: 40px;
+  margin-right: 20px;
+}
+.upper {
+  display: flex;
+  width: 60%;
+  align-items: center;
+}
